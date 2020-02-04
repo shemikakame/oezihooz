@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oocahvooso.peacefulby.com/sitemap.xml
